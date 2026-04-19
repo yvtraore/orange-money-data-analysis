@@ -109,9 +109,7 @@ Seulement 24,8% des transactions viennent de cette tranche. Fort potentiel inexp
 
 ## 🛠️ Outils utilisés
 
-- **Python** (pandas) — Analyse exploratoire des données
 - **Excel / OpenPyXL** — Dashboard, tableaux croisés, graphiques
-- **GitHub** — Versioning et partage
 
 ---
 
